@@ -1,0 +1,1 @@
+# SP-Finance-TimeSeriesAnalysis-BitcoinPrice-Stationarity-SyntheticData
